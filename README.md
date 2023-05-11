@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+The new sign in google identity : you need to set up your google account a configure the credentials and than add your test emailś and use the code as it is 
+FOR MORE DETAILS CONTACT ME 
+A little thank you will made me Happy :)
